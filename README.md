@@ -1,7 +1,7 @@
 <h1 align="center">Refund 2.0 - Gestão de Reembolso 💰</h1>
 
 <p align="center">
-  Interface financeira para controlo e gestão de reembolsos com validações de dados em tempo real.
+  Backend financeiro para controle e gestão de reembolsos com validações de dados em tempo real.
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ## 💻 Sobre o Projeto
 
-Em aplicações financeiras, a precisão e a fiabilidade visual são inegociáveis. O Refund 2.0 é um *dashboard* desenvolvido para gerir pedidos de reembolso, combinando uma arquitetura React robusta com validações de esquemas de dados estritos.
+Em aplicações financeiras, a precisão e a fiabilidade visual são inegociáveis. O Refund 2.0 é uma API desenvolvidA para gerir pedidos de reembolso, combinando uma arquitetura React robusta com validações de esquemas de dados estritos.
 
 > **Nota:** Adicionar Screenshot do painel financeiro a funcionar. 
 > `![Refund Dashboard](./caminho-para-imagem.png)`
